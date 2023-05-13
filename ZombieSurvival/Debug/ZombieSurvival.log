@@ -1,0 +1,33 @@
+﻿  main.cpp
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(64,33): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(82,54): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(120,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(121,34): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(176,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(183,43): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(197,47): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(207,47): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(218,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(222,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(225,43): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(227,50): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(243,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(245,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(252,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(254,45): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(269,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(287,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(290,44): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(300,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(303,45): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(315,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(317,45): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(324,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(326,44): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(387,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(398,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(400,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(428,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(461,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\ZombieSurvival\main.cpp(467,34): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  ZombieSurvival.vcxproj -> D:\Users\administrator\바탕화면\HSU\2학기\컴퓨터 그래픽스\ZombieSurvival\Debug\ZombieSurvival.exe
