@@ -4,12 +4,13 @@
 
 23년도 1학기 컴퓨터 그래픽스 연습용 프로젝트
 
-![1](https://github.com/y2hscmtk/ZombieSurviver/assets/109474668/65aef545-f983-4204-b5fb-08a5c8222203)
+![1](https://github.com/y2hscmtk/Algorithm-Study/assets/109474668/82860377-0efc-4f23-9293-857f5b1499c2)
+
 
 파란색 인간은 캐릭터로, 플레이어가 직접 조작 가능하다. t2초마다 팔 다리를 앞뒤로 조금씩 움직인다. 
 오른 손은 앞으로 쭉 뻗은채로 총을 들고 있다. 총을 들고 있는 손은 흔들리지 않는다.
 
-![2](https://github.com/y2hscmtk/ZombieSurviver/assets/109474668/604812be-e036-44b9-a89f-fb699d41028b)
+![2](https://github.com/y2hscmtk/Algorithm-Study/assets/109474668/e8523bdb-c973-4ef3-b0e6-4a71cfc31795)
 
 초록색 인간은 좀비 몹이다. 손을 앞으로 쭉뻗은채로 t초마다 흔들거리고, 좌우로 이동한다.
 
