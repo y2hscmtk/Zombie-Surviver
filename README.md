@@ -19,8 +19,9 @@
 좀비는 100의 체력을 갖고 있으며 총알 한발을 맞으면 체력이 10 감소한다.
 30초안에 좀비를 처치하면, 좀비의 움직임은 멈추고 캐릭터는 계속 움직이는 것이 가능하다.(승리)
 
-![녹화_2023_05_13_14_41_37_960](https://github.com/y2hscmtk/ZombieSurviver/assets/109474668/879497d3-3aa0-4249-8b59-abe016b55343)
+![녹화_2023_05_13_14_41_37_960](https://github.com/y2hscmtk/Algorithm-Study/assets/109474668/9c8d56e2-1a02-4a73-92ba-ab695fe1f76e)
+
 
 30초안에 처치하지 못한다면, 캐릭터와 좀비 둘 다 움직임을 멈추고 캐릭터의 움직임을 더 이상 조작하지 못하게 된다.(패배)
 
-![녹화_2023_05_13_14_43_35_814](https://github.com/y2hscmtk/ZombieSurviver/assets/109474668/7cd741dd-5d2c-44ad-94dd-6f7dd1daf662)
+![녹화_2023_05_13_14_43_35_814](https://github.com/y2hscmtk/Algorithm-Study/assets/109474668/68d59f2c-95ca-451c-9e8b-802ab97dda0a)
